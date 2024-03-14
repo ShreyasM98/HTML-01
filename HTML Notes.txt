@@ -1,0 +1,15 @@
+HTML 
+1.Block level Elements
+2.Inline level elements
+HTML entities.
+List - Ordered , Unordered , description
+Links - Absolute reference and Relative reference and Internal reference
+
+To Find images for practice
+Pexels.com
+Unsplash.com
+loremipsun 
+Irfan View to resizing the images
+tinypng.com
+
+Assistive Technology
